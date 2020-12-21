@@ -1,0 +1,66 @@
+---
+title: "Spring 2021 Calendar for 500"
+output: 
+    html_document:
+        toc: true
+        toc_float: true
+---
+
+## General Comments {-}
+
+- All class sessions will be held from **9:00 to 11:15 AM** via Zoom. 
+- All times listed anywhere on this page refer to **US Eastern Time**.
+- The Zoom link for each class is [available on Canvas](https://canvas.case.edu) in the Announcements section. Zoom recordings are also posted to [Canvas](https://canvas.case.edu).
+- All Zoom class session will open 15 minutes before class begins and close 15 minutes after class ends for students to ask questions of Professor Love.
+- Links to Class sessions and Assignments will appear here as the materials become available.
+
+## Readings
+
+Details to come.
+
+## February 2021
+
+LINK | Date | Description
+--------: | -------: | :-------------------------------------------------------
+[Class 01](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class01) | 02-04 | First Class
+[Class 02](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class02) | 02-11 | Second Class
+Class 03 | 02-18 | Third Class
+Class 04 | 02-25 | Fourth Class
+
+## March 2021
+
+LINK | Date | Description
+--------: | -------: | :-------------------------------------------------------
+Class 05 | 03-04 | Fifth Class
+Class 06 | 03-11 | Sixth Class
+Class 07 | 03-18 | Seventh Class
+Class 08 | 03-25 | Eighth Class
+
+## April 2021
+
+LINK | Date | Description
+--------: | -------: | :-------------------------------------------------------
+Class 09 | 04-01 | Ninth Class
+Class 10 | 04-08 | Tenth Class
+Class 11 | 04-15 | Eleventh Class
+Class 12 | 04-22 | Twelfth Class
+Class 13 | 04-29 | Thirteenth Class
+
+## May 2021
+
+LINK | Date | Description
+--------: | -------: | :-------------------------------------------------------
+Class 14 | 05-06 | Final Presentations, Session 1
+Class 15 | 05-13 | Final Presentations, Session 2
+
+## End of Semester
+
+Finals Week is 2021-05-11 through 2021-05-19. Final project submissions will be completed during this time.
+
+## TA Office Hours
+
+The teaching assistant for 500 is Wyatt Bensken. Reach Wyatt, and Dr. Love, via **500-help at case dot edu**.
+
+Details on Wyatt's office hours will come by class time.
+
+
