@@ -25,7 +25,7 @@ LINK | Date | Description
 [Class 01](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class01) | 02-04 | First Class
 [Class 02](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class02) | 02-11 | Second Class
 Class 03 | 02-18 | Third Class
-Class 04 | 02-25 | Fourth Class
+Class 04 | 02-25 | Fourth Class (Remote only - AHRQ study section)
 
 ## March 2021
 
