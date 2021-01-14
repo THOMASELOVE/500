@@ -8,10 +8,11 @@ output:
 
 ## General Comments {-}
 
-- All class sessions will be held from **9:00 to 11:15 AM** via Zoom. 
+- All class sessions are scheduled from **8:30 to 11:00 AM** via Zoom. 
+    - Classes 01, 14 and 15 will occur during that 2.5 hour period.
+    - Classes 02 - 13 will include recorded materials from Dr. Love provided in advance of each class session, with actual class sessions held over Zoom from 9:30 AM to 10:45 AM, with the Zoom session open from 9:15 AM until 11 AM.
 - All times listed anywhere on this page refer to **US Eastern Time**.
-- The Zoom link for each class is [available on Canvas](https://canvas.case.edu) in the Announcements section. Zoom recordings are also posted to [Canvas](https://canvas.case.edu).
-- All Zoom class session will open 15 minutes before class begins and close 15 minutes after class ends for students to ask questions of Professor Love.
+- The Zoom link for each class will be [available on Canvas](https://canvas.case.edu) in the Zoom section. Zoom recordings will also be posted to [Canvas](https://canvas.case.edu).
 - Links to Class sessions and Assignments will appear here as the materials become available.
 
 ## Readings
@@ -22,10 +23,10 @@ Details to come.
 
 LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
-[Class 01](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class01) | 02-04 | First Class
-[Class 02](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class02) | 02-11 | Second Class
+[Class 01](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class01) | 02-04 | First Class (8:30 AM to 11:00 AM)
+[Class 02](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class02) | 02-11 | Second Class (in class session: 9:30 - 10:45 AM)
 Class 03 | 02-18 | Third Class
-Class 04 | 02-25 | Fourth Class
+Class 04 | 02-25 | Fourth Class (Remote only - AHRQ study section)
 
 ## March 2021
 
