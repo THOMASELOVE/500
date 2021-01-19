@@ -2,7 +2,7 @@
 title: "500 Main Page for Spring 2021"
 ---
 
-Welcome! PQHS 500 is taught by Professor Thomas Love in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. Everything that Professor Love will provide to help you with the course will appear on this website.
+Welcome! PQHS 500 (also called CRSP 500) is taught by Professor Thomas Love in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. Everything that Professor Love will provide to help you with the course will appear on this website.
 
 The class will be held on Thursdays from 8:30 - 11:00 AM virtually, using the Zoom platform, starting on 2021-02-04. Information on the Zoom meetings will be found on [Canvas](https://canvas.case.edu). Registration for the course is required.
 
@@ -12,10 +12,16 @@ The menu bar will expand to include links to everything you'll need this semeste
 
 - the course syllabus
 - the [course calendar](calendar.html), which provides the final word on all deadlines, and also provides links to all materials used in each class session
-- detailed information on all course assignments
+- detailed information on all course assignments, including five labs, a presentation of an existing study, and a semester-long course project.
     - All deadlines for these assignments will appear in the [calendar](calendar.html).
 - information on installing R and RStudio, installing key R packages, and downloading data (and code) you'll need for the class.
 - a link to the [Canvas](https://canvas.case.edu/) system (log-in required) we use to communicate information about Zoom sessions, and for turning in assignments
 - places where you can [get help and contact us](contact.html).
 
-#### This site last updated `r Sys.time()`
+## What Should I Do Before Class Begins?
+
+1. **Buy the book**. During the course, we will read Paul Rosenbaum's book **Observation and Experiment: An Introduction to Causal Inference**, which is available as an e-book or in paperback for under $25. Please buy the book and read the Preface and Chapter 1 before our first class on 2020-02-04.
+
+2. **Download the software**. Install R and RStudio and some necessary R packages on a computer you can control throughout the semester. Details [are available here](software_install.html).
+
+#### More to come. This site last updated `r Sys.time()`

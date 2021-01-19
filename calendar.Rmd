@@ -9,43 +9,44 @@ output:
 ## General Comments {-}
 
 - All class sessions are scheduled from **8:30 to 11:00 AM** via Zoom. 
-    - Classes 01, 14 and 15 will occur during that 2.5 hour period.
-    - Classes 02 - 13 will include recorded materials from Dr. Love provided in advance of each class session, with actual class sessions held over Zoom from 9:30 AM to 10:45 AM, with the Zoom session open from 9:15 AM until 11 AM.
+    - Many classes (after Class 1) will include pre-recorded materials from Dr. Love with actual class sessions held over Zoom from 9:30 AM to 10:45 AM, with the Zoom session open from 9:15 AM until 11 AM.
 - All times listed anywhere on this page refer to **US Eastern Time**.
 - The Zoom link for each class will be [available on Canvas](https://canvas.case.edu) in the Zoom section. Zoom recordings will also be posted to [Canvas](https://canvas.case.edu).
 - Links to Class sessions and Assignments will appear here as the materials become available.
 
 ## Readings
 
-Details to come.
+During the course, we will read Paul Rosenbaum's book **Observation and Experiment: An Introduction to Causal Inference**, which is available as an e-book or in paperback for under $25. Please buy the book and read the Preface and Chapter 1 before our first class on 2020-02-04.
 
 ## February 2021
 
 LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
-[Class 01](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class01) | 02-04 | First Class (8:30 AM to 11:00 AM)
-[Class 02](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class02) | 02-11 | Second Class (in class session: 9:30 - 10:45 AM)
-Class 03 | 02-18 | Third Class
-Class 04 | 02-25 | Fourth Class (Remote only - AHRQ study section)
+[Class 01](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class01) | 02-04 | First Class (8:30 AM to 11:00 AM), Rosenbaum: Preface, Chapter 1
+[Class 02](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class02) | 02-11 | Lecture A (in class session: 9:30 - 10:45 AM) Rosenbaum Chapter 2
+Class 03 | 02-18 | Lecture B, Rosenbaum Chapter 3
+Class 04 | 02-25 | Lecture C, Project Proposal work (Remote only - AHRQ study section)
+Proposal | 03-01 | Project Proposal due
 
 ## March 2021
 
 LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
-Class 05 | 03-04 | Fifth Class
-Class 06 | 03-11 | Sixth Class
-Class 07 | 03-18 | Seventh Class
-Class 08 | 03-25 | Eighth Class
+Class 05 | 03-04 | Lecture D, Rosenbaum Chapters 4-6
+Class 06 | 03-11 | Lecture E, Rubin 2001
+OSIA | 03-15 | OSIA proposals due
+Class 07 | 03-18 | Lecture F, Rosenbaum Chapter 7
+Class 08 | 03-25 | Rosenbaum Chapter 8, OSIA Day 1
 
 ## April 2021
 
 LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
-Class 09 | 04-01 | Ninth Class
-Class 10 | 04-08 | Tenth Class
-Class 11 | 04-15 | Eleventh Class
-Class 12 | 04-22 | Twelfth Class
-Class 13 | 04-29 | Thirteenth Class
+Class 09 | 04-01 | Rosenbaum Chapter 9, OSIA Day 2
+Class 10 | 04-08 | Rosenbaum Chapter 10, OSIA Day 3
+Class 11 | 04-15 | Lecture G, Rosenbaum Chapter 11
+Class 12 | 04-22 | Lecture H, Rosenbaum Chapter 12
+Class 13 | 04-29 | Lecture I
 
 ## May 2021
 
