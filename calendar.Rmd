@@ -24,10 +24,7 @@ Many other resources appear on the [Sources](https://github.com/THOMASELOVE/500-
 
 ## TA Office Hours
 
-The teaching assistant for 500 is [Wyatt Bensken](https://wyattbensken.com/). Reach Wyatt, and Dr. Love, via **500-help at case dot edu**.
-
-Details on Wyatt's office hours will be made available at our first class session.
-
+The teaching assistant for 500 is [Wyatt Bensken](https://wyattbensken.com/). Wyatt is happy to hold office hours, by appointment. Email him at **500-help at case dot edu** to set up an appointment or ask a question.
 
 ## February 2021
 
@@ -35,26 +32,26 @@ LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
 [Class 01](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class01) | 02-04 | First Class (8:30 AM to 11:00 AM), Rosenbaum: Preface, Chapter 1
 **due** | 02-11 | [Lab 1](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due at 8 AM
-[Class 02](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class02) | 02-11 | Lecture A, Rosenbaum Chapter 2
+[Class 02](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class02) | 02-11 | Lecture 2, Rosenbaum Chapter 2
 **due** | 02-18 | [Lab 2](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due at 8 AM
-Class 03 | 02-18 | Lecture B, Rosenbaum Chapter 3
-Class 04 | 02-25 | Lecture C, Project Proposal work (Remote only - AHRQ study section)
+Class 03 | 02-18 | Lecture 3, Rosenbaum Chapter 3
+Class 04 | 02-25 | Lecture 4, Project Proposal work (Remote only - AHRQ study section)
 
 ## March 2021
 
 LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
 **due** | 03-02 | [OSIA claims](https://github.com/THOMASELOVE/500-2021/tree/master/osia) due via email to Dr. Love by 9 PM
-Class 05 | 03-04 | Lecture D, Rosenbaum Chapters 4-6
+Class 05 | 03-04 | Lecture 5, Rosenbaum Chapters 4-6
 **due** | 03-11 | [Lab 3](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due at 8 AM
-Class 06 | 03-11 | Lecture E, Rubin 2001
+Class 06 | 03-11 | Lecture 6, Rubin 2001
 **due** | 03-16 | Project Proposal due by 9 PM
 **due** | 03-18 | 8 AM: [Essay on Rosenbaum Chapter 7](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md)
 **due** | 03-18 | [Lab 4](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due at 8 AM
-Class 07 | 03-18 | Lecture F, Rosenbaum Chapter 7
+Class 07 | 03-18 | Lecture 7, Rosenbaum Chapter 7
 **due** | 03-24 | 3 PM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Primary Reviewers speaking tomorrow
 **due** | 03-25 | 8 AM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Second Reviewers speaking today
-Class 08 | 03-25 | Lecture G, OSIA Day 1
+Class 08 | 03-25 | Lecture 8, OSIA Day 1
 **due** | 03-31 | 3 PM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Primary Reviewers speaking tomorrow
 
 ## April 2021
@@ -74,9 +71,9 @@ Class 10 | 04-08 | Rosenbaum Chapter 9, OSIA Day 3
 **due** | 04-15 | 8 AM: [Essay on Rosenbaum Chapter 10](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md)
 Class 11 | 04-15 | Rosenbaum Chapter 10, OSIA Day 4
 **due** | 04-22 | 8 AM: [Essay on Rosenbaum Chapter 11](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md)
-Class 12 | 04-22 | Lecture H, Rosenbaum Chapter 11
+Class 12 | 04-22 | Lecture 9, Rosenbaum Chapter 11
 **due** | 04-29 | 8 AM: [Essay on Rosenbaum Chapter 12](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md)
-Class 13 | 04-29 | Lecture I, Rosenbaum Chapter 12
+Class 13 | 04-29 | Lecture 10, Rosenbaum Chapter 12
 
 ## May 2021
 

@@ -14,7 +14,7 @@ The menu bar includes links to everything you'll need this semester, including
 - the [course calendar](calendar.html), which provides the final word on all deadlines, and also provides links to the materials used in each class session
 - detailed information on all [course assignments](https://thomaselove.github.io/500/project.html), including labs, essays, the Observational Studies in Action presentations of studies from the literature, and a semester-long course project.
     - All deadlines for these assignments will appear in the [calendar](calendar.html).
-- information on [installing R and RStudio](software_install.html), installing [key R packages](r_packages.html), and [downloading data (and code)](data_index.html) you'll need for the class.
+- information on [installing R and RStudio](software_install.html), installing [key R packages](r_packages.html), and [downloading data (and code)](data_index.html) you'll need for the class, as well as a [review of some useful R basics](https://github.com/THOMASELOVE/500-2021/tree/master/r-basics).
 - a link to the [Canvas](https://canvas.case.edu/) system (log-in required) we use to communicate information about Zoom sessions, and for turning in some assignments
 - information about where you can [get help and contact us](contact.html).
 

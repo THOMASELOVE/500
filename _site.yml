@@ -10,6 +10,18 @@ navbar:
       href: syllabus.html
     - text: Calendar
       href: calendar.html
+    - text: R and Data
+      menu:
+        - text: Installing R
+          href: software_install.html
+        - text: R Packages List
+          href: r_packages.html
+        - text: Data Downloads
+          href: data_index.html
+        - text: Review Some R Basics
+          href: https://github.com/THOMASELOVE/500-2021/tree/master/r-basics
+    - text: Sources
+      href: https://github.com/THOMASELOVE/500-2021/tree/master/sources
     - text: Assignments
       menu:
         - text: Project
@@ -20,16 +32,6 @@ navbar:
           href: https://github.com/THOMASELOVE/500-2021/tree/master/essays
         - text: Observational Studies in Action
           href: https://github.com/THOMASELOVE/500-2021/tree/master/osia
-    - text: Sources
-      href: https://github.com/THOMASELOVE/500-2021/tree/master/sources
-    - text: R and Data
-      menu:
-        - text: Installing R
-          href: software_install.html
-        - text: R Packages List
-          href: r_packages.html
-        - text: Data Downloads
-          href: data_index.html
   right:
     - text: "Canvas"
       href: https://canvas.case.edu/
