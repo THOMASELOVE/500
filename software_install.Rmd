@@ -12,7 +12,7 @@ The steps you need to complete are:
     - Dr. Love will stick with the regular open source version in his teaching work.
 3. Install some **R packages** - an R "package" is a collection of functions, data, and documentation that extends the capabilities of R, and is the critical way to get R doing interesting work. 
     - The most recent list of [R Packages to install](r_packages.html) is available now, along with instructions. As the semester continues, this list will be updated to add new packages.
-4. Download [500 data and code](data_index.html) developed specifically for the course.
+4. Download [500 data and code](data_index.html) developed for the course.
 5. Obtain a free **Github User Account** by visiting https://github.com/ and signing up. 
     - We urge you to select a Github username that identifies you effectively, and that matches your other professional social media usernames. For instance, Dr. Love uses THOMASELOVE on Github and @ThomasELove on Twitter.
     
