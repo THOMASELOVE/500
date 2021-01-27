@@ -6,18 +6,22 @@ navbar:
   left:
     - icon: fa-home
       href: index.html
+    - text: Syllabus
+      href: syllabus.html
     - text: Calendar
       href: calendar.html
     - text: Assignments
       menu:
+        - text: Project
+          href: project.html
         - text: Labs
           href: https://github.com/THOMASELOVE/500-2021/tree/master/labs
         - text: Essays
           href: https://github.com/THOMASELOVE/500-2021/tree/master/essays
         - text: Observational Studies in Action
           href: https://github.com/THOMASELOVE/500-2021/tree/master/osia
-        - text: Project
-          href: project.html
+    - text: Readings/Sources
+      href: https://github.com/THOMASELOVE/500-2021/tree/master/sources
     - text: R and Data
       menu:
         - text: Installing R
@@ -26,8 +30,6 @@ navbar:
           href: r_packages.html
         - text: Data Downloads
           href: data_index.html
-    - text: Readings/Sources
-      href: https://github.com/THOMASELOVE/500-2021/tree/master/sources
   right:
     - text: "Canvas"
       href: https://canvas.case.edu/
