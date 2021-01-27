@@ -8,6 +8,4 @@ The 500 course includes four types of assignments.
 2. Several [essays](https://github.com/THOMASELOVE/500-2021/tree/master/essays), mostly in the second half of the course, meant to help you reflect on what you'll be reading in the Rosenbaum text, and share that with your colleagues.
 3. A presentation of a study from the literature that uses propensity methods, referred to with the somewhat grandiose title: [Observational Studies in Action](https://github.com/THOMASELOVE/500-2021/tree/master/osia). 
     - You'll be the primary reviewer and give a 15-minute presentation for one study that you'll select, and also serve as a secondary reviewer, giving a 3-5 minute follow-up presentation, for a study chosen by a colleague.
-4. A semester-long course project.
-
-Instructions related to the project will be posted soon.
+4. A semester-long course project. Instructions for the project are [available here](https://github.com/THOMASELOVE/500-2021/tree/master/project).
