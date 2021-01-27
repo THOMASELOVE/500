@@ -20,7 +20,7 @@ navbar:
           href: https://github.com/THOMASELOVE/500-2021/tree/master/essays
         - text: Observational Studies in Action
           href: https://github.com/THOMASELOVE/500-2021/tree/master/osia
-    - text: Readings/Sources
+    - text: Sources
       href: https://github.com/THOMASELOVE/500-2021/tree/master/sources
     - text: R and Data
       menu:
