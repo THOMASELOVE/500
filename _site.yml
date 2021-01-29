@@ -7,7 +7,7 @@ navbar:
     - icon: fa-home
       href: index.html
     - text: Syllabus
-      href: syllabus.html
+      href: https://thomaselove.github.io/500-2021-syllabus/
     - text: Calendar
       href: calendar.html
     - text: R and Data
