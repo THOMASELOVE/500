@@ -6,10 +6,6 @@ Welcome! PQHS 500 (also called CRSP 500) is taught by Professor Thomas Love in t
 
 The class will be held on Thursdays from 8:30 - 11:00 AM virtually, using the Zoom platform, starting on 2021-02-04. Information on the Zoom meetings will be found on [Canvas](https://canvas.case.edu). Registration for the course is required.
 
-## Take our "Welcome to 500" Survey!
-
-Once you have registered for the course, please visit our [Welcome to 500 survey](http://bit.ly/500-2021-welcome-survey). You'll need to log into Google via CWRU to take the survey, which should take about 10 minutes to complete. If possible, please complete the survey before our first class on 2021-02-04.
-
 ## Everything You Need Is Here
 
 The menu bar includes links to everything you'll need this semester, including
@@ -22,10 +18,16 @@ The menu bar includes links to everything you'll need this semester, including
 - a link to the [Canvas](https://canvas.case.edu/) system (log-in required) we use to communicate information about Zoom sessions, and for turning in some assignments
 - information about where you can [get help and contact us](contact.html).
 
+## Take our "Welcome to 500" Survey!
+
+Once you have registered for the course, please visit our [Welcome to 500 survey](http://bit.ly/500-2021-welcome-survey). You'll need to log into Google via CWRU to take the survey, which should take about 10 minutes to complete. If possible, please complete the survey before our first class on 2021-02-04.
+
 ## What Should I Do Before Class Begins?
 
 1. **Buy the book**. During the course, we will read Paul Rosenbaum's book **Observation and Experiment: An Introduction to Causal Inference**, which is available as an e-book or in paperback for under $25. Please buy the book and read the Preface and Chapter 1 before our first class on 2020-02-04.
 
-2. **Download the software**. Install R and RStudio and some necessary R packages on a computer you can control throughout the semester. Details [are available here](software_install.html).
+2. Take the [Welcome to 500 survey](http://bit.ly/500-2021-welcome-survey).
+
+3. **Download the software**. Install R and RStudio and some necessary R packages on a computer you can control throughout the semester. Details [are available here](software_install.html).
 
 #### This site last updated `r Sys.time()`
