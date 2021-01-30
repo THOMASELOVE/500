@@ -34,8 +34,8 @@ LINK | Date | Description
 **due** | 02-11 | [Lab 1](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due at 8 AM
 [Class 02](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class02) | 02-11 | Lecture 2, Rosenbaum Chapter 2
 **due** | 02-18 | [Lab 2](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due at 8 AM
-Class 03 | 02-18 | Lecture 3, Rosenbaum Chapter 3
-Class 04 | 02-25 | Lecture 4, Project Proposal work (Remote only - AHRQ study section)
+[Class 03](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class03) | 02-18 | Lecture 3, Rosenbaum Chapter 3
+[Class 04](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class04) | 02-25 | Lecture 4, Project Proposal work (Remote only - AHRQ study section)
 
 ## March 2021
 
