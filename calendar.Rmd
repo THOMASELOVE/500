@@ -9,7 +9,8 @@ output:
 ## General Comments {-}
 
 - All class sessions are scheduled from **8:30 to 11:00 AM** via Zoom. 
-    - Some classes (after Class 1) will include pre-recorded materials from Dr. Love with actual class sessions held over Zoom from 9:30 AM to 10:45 AM, with the Zoom session open from 9:15 AM until 11 AM.
+    - Some classes (after Class 1) will include pre-recorded materials from Dr. Love with actual class sessions held over Zoom from 9:30 AM to 10:45 AM.
+    - Zoom sessions will open 10 minutes before and remain open for 15 minutes (or more, as needed) after class for informal discussions with Dr. Love.
 - All times listed anywhere on this page refer to **US Eastern Time**.
 - The Zoom link for each class will be [available on Canvas](https://canvas.case.edu) in the Zoom section. Zoom recordings will also be posted to [Canvas](https://canvas.case.edu).
     - Some assignments (essays, OSIA slides) are submitted via the Class Shared Google Drive, and details on accessing that will be available at our first class session. 
@@ -32,7 +33,7 @@ LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
 [Class 01](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class01) | 02-04 | First Class (8:30 AM to 11:00 AM), Rosenbaum: Preface, Chapter 1
 **due** | 02-11 | [Lab 1](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due at 8 AM
-[Class 02](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class02) | 02-11 | Lecture 2, Rosenbaum Chapter 2
+[Class 02](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class02) | 02-11 | Class Begins 9:30 AM. Lecture 2, Rosenbaum Chapter 2
 **due** | 02-18 | [Lab 2](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due at 8 AM
 [Class 03](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class03) | 02-18 | Lecture 3, Rosenbaum Chapter 3
 [Class 04](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class04) | 02-25 | Lecture 4, Project Proposal work (Remote only - AHRQ study section)
