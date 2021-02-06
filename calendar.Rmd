@@ -8,8 +8,8 @@ output:
 
 ## General Comments {-}
 
-- All class sessions are scheduled from **8:30 to 11:00 AM** via Zoom. 
-    - Some classes (after Class 1) will include pre-recorded materials from Dr. Love with actual class sessions held over Zoom from 9:30 AM to 10:45 AM.
+- All sessions are scheduled from **8:30 to 11:00 AM** via Zoom. 
+    - Some classes (after Class 1) will include pre-recorded materials from Dr. Love with actual class sessions starting later than 8:30 AM, as noted below.
     - Zoom sessions will open 10 minutes before and remain open for 15 minutes (or more, as needed) after class for informal discussions with Dr. Love.
 - All times listed anywhere on this page refer to **US Eastern Time**.
 - The Zoom link for each class will be [available on Canvas](https://canvas.case.edu) in the Zoom section. Zoom recordings will also be posted to [Canvas](https://canvas.case.edu).
@@ -43,10 +43,10 @@ LINK | Date | Time | Description
 LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
 **due** | 03-02 | [OSIA claims](https://github.com/THOMASELOVE/500-2021/tree/master/osia) due via email to Dr. Love by 9 PM
-Class 05 | 03-04 | Lecture 5, Rosenbaum Chapters 4-6
+[Class 05](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class05) | 03-04 | Lecture 5, Rosenbaum Chapters 4-6
 **due** | 03-09 | [Project Proposal](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md) (initial draft) due to Canvas by 9 PM
 **due** | 03-11 | [Lab 3](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due at 8 AM
-Class 06 | 03-11 | Lecture 6, Rubin 2001
+[Class 06](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class06) | 03-11 | Lecture 6, Rubin 2001
 **due** | 03-18 | 8 AM: [Essay on Rosenbaum Chapter 7](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md)
 **due** | 03-18 | [Lab 4](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due at 8 AM
 Class 07 | 03-18 | Lecture 7, Rosenbaum Chapter 7
@@ -80,10 +80,10 @@ Class 13 | 04-29 | Lecture 10, Rosenbaum Chapter 12
 
 ## May 2021
 
-LINK | Date | Description
---------: | -------: | :-------------------------------------------------------
-Class 14 | 05-06 | [Final Project Presentations](https://github.com/THOMASELOVE/500-2021/tree/master/project), Session 1
-Class 15 | 05-13 | [Final Project Presentations](https://github.com/THOMASELOVE/500-2021/tree/master/project), Session 2
+LINK | Date | Time | Description
+--------: | -------: | -------: |:-------------------------------------------------------
+Class 14 | 05-06 | 8:30 - 11 | [Project Presentations](https://github.com/THOMASELOVE/500-2021/tree/master/project), Session 1
+Class 15 | 05-13 | 8:30 - 11 | [Project Presentations](https://github.com/THOMASELOVE/500-2021/tree/master/project), Session 2
 
 ## End of Semester
 
