@@ -29,14 +29,14 @@ The teaching assistant for 500 is [Wyatt Bensken](https://wyattbensken.com/). Wy
 
 ## February 2021
 
-LINK | Date | Description
---------: | -------: | :-------------------------------------------------------
-[Class 01](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class01) | 02-04 | First Class (8:30 AM to 11:00 AM), Rosenbaum: Preface, Chapter 1
-**due** | 02-11 | [Lab 1](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due at 8 AM
-[Class 02](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class02) | 02-11 | Class Begins 9:30 AM. Lecture 2, Rosenbaum Chapter 2
-**due** | 02-18 | [Lab 2](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due at 8 AM
-[Class 03](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class03) | 02-18 | Lecture 3, Rosenbaum Chapter 3
-[Class 04](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class04) | 02-25 | Lecture 4, Project Proposal work (Remote only - AHRQ study section)
+LINK | Date | Time | Description
+--------: | -------: | ------- | :-------------------------------------------------------
+[Class 01](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class01) | 02-04 | 8:30 AM | First Class Session, Rosenbaum Preface, Chapter 1
+**due** | 02-11 | 8 AM | [Lab 1](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due 
+[Class 02](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class02) | 02-11 | **9:30 AM** | Lecture 2, Rosenbaum Chapter 2
+**due** | 02-18 | 8 AM | [Lab 2](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due
+[Class 03](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class03) | 02-18 | **9:30 AM** | Lecture 3, Rosenbaum Chapter 3
+[Class 04](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class04) | 02-25 | *TBD* | Lecture 4, Project Proposal work (Dr. Love at AHRQ study section)
 
 ## March 2021
 
