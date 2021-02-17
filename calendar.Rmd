@@ -36,14 +36,14 @@ LINK | Date | Time | Description
 [Class 02](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class02) | 02-11 | **9:30 AM** | Lecture 2, Rosenbaum Chapter 2
 **due** | 02-18 | 8 AM | [Lab 2](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due
 [Class 03](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class03) | 02-18 | **9:30 AM** | Lecture 3, Rosenbaum Chapter 3
-[Class 04](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class04) | 02-25 | *TBD* | Lecture 4, Project Proposal work (Dr. Love at AHRQ study section)
+[Class 04](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class04) | 02-25 | **9:30 AM** | Lecture 4, Rosenbaum Chapter 4, lindner and toy examples
 
 ## March 2021
 
 LINK | Date | Description
 --------: | -------: | :-------------------------------------------------------
 **due** | 03-02 | [OSIA claims](https://github.com/THOMASELOVE/500-2021/tree/master/osia) due via email to Dr. Love by 9 PM
-[Class 05](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class05) | 03-04 | Lecture 5, Rosenbaum Chapters 4-6
+[Class 05](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class05) | 03-04 | Lecture 5, Rosenbaum Chapters 5-6
 **due** | 03-09 | [Project Proposal](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md) (initial draft) due to Canvas by 9 PM
 **due** | 03-11 | [Lab 3](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due at 8 AM
 [Class 06](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class06) | 03-11 | Lecture 6, Rubin 2001

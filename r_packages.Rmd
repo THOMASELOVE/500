@@ -11,8 +11,8 @@ An R "package" is a collection of functions, data, and documentation that extend
 1. Open RStudio. Copy and paste the following lines of code into the **Console** window of RStudio to install a few key packages.
 
 ```
-pkgs <- c(  "afex", "aplpack", "arm", "babynames", "boot", "broom", "car", 
-            "CBPS", "cobalt", "cowplot", "devtools", "ebal", "Epi", "ez", 
+pkgs <- c(  "afex", "aplpack", "arm", "babynames", "boot", "broom", "broom.mixed", 
+            "car", "CBPS", "cobalt", "cowplot", "devtools", "ebal", "Epi", "ez", 
             "faraway", "fivethirtyeight", "foreign", "gapminder", "gee", 
             "geepack", "GGally", "ggforce", "ggrepel", "ggridges", "ggthemes", 
             "glue", "gridExtra", "here", "Hmisc", "infer", "janitor", "knitr", 
