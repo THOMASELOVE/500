@@ -13,13 +13,22 @@
 
 <title>Spring 2021 Calendar for 500</title>
 
-<script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
@@ -39,11 +48,6 @@
     </style>
 
 <style type="text/css">code{white-space: pre;}</style>
-<style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -56,32 +60,6 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
 
 
 
@@ -92,10 +70,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -112,40 +86,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -173,7 +120,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -185,7 +132,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -196,10 +143,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -211,7 +171,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -337,13 +296,13 @@ div.tocify {
 
 
 <!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
-<div class="col-xs-12 col-sm-4 col-md-3">
+<div class="row">
+<div class="col-sm-12 col-md-4 col-lg-3">
 <div id="TOC" class="tocify">
 </div>
 </div>
 
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+<div class="toc-content col-sm-12 col-md-8 col-lg-9">
 
 
 
@@ -430,7 +389,7 @@ div.tocify {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -455,6 +414,240 @@ div.tocify {
 </ul></li>
 <li>This Calendar provides the final word on all deadlines, deliverables and class sessions.</li>
 </ul>
+</div>
+<div id="march-2021" class="section level2">
+<h2>March 2021</h2>
+<table>
+<colgroup>
+<col width="11%" />
+<col width="10%" />
+<col width="8%" />
+<col width="70%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="right">LINK</th>
+<th align="right">Date</th>
+<th>Time</th>
+<th align="left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right"><strong>due</strong></td>
+<td align="right">03-02</td>
+<td>9 PM</td>
+<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/tree/master/osia">OSIA claims</a> due via email to Dr. Love</td>
+</tr>
+<tr class="even">
+<td align="right"><a href="https://github.com/THOMASELOVE/500-2021/tree/master/classes/class05">Class 05</a></td>
+<td align="right">03-04</td>
+<td>9:30 AM</td>
+<td align="left">Lecture 5 (matching, dm2200), Rosenbaum Chapters 5-6</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>due</strong></td>
+<td align="right">03-09</td>
+<td>9 PM</td>
+<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md">Project Proposal</a> (initial draft) due to Canvas</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>due</strong></td>
+<td align="right">03-11</td>
+<td>8 AM</td>
+<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/tree/master/labs">Lab 3</a> due</td>
+</tr>
+<tr class="odd">
+<td align="right"><a href="https://github.com/THOMASELOVE/500-2021/tree/master/classes/class06">Class 06</a></td>
+<td align="right">03-11</td>
+<td>9:30 AM</td>
+<td align="left">Lecture 6 (Rubin 2001, rhc example), Read Rubin 2001, Lab 3</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>due</strong></td>
+<td align="right">03-18</td>
+<td>8 AM</td>
+<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md">Essay on Rosenbaum Chapter 7</a></td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>due</strong></td>
+<td align="right">03-18</td>
+<td>8 AM</td>
+<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/tree/master/labs">Lab 4</a></td>
+</tr>
+<tr class="even">
+<td align="right">Class 07</td>
+<td align="right">03-18</td>
+<td>9:30 AM</td>
+<td align="left">Lecture 7 (sensitivity analysis), Rosenbaum Chapter 7, Lab 4</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>due</strong></td>
+<td align="right">03-23</td>
+<td>9 PM</td>
+<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md">Project Proposal</a> (final version) due to Canvas</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>due</strong></td>
+<td align="right">03-24</td>
+<td>3 PM</td>
+<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/tree/master/osia">OSIA slides due</a> for Primary Reviewers speaking tomorrow</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>due</strong></td>
+<td align="right">03-25</td>
+<td>8 AM</td>
+<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/tree/master/osia">OSIA slides due</a> for Second Reviewers speaking today</td>
+</tr>
+<tr class="even">
+<td align="right">Class 08</td>
+<td align="right">03-25</td>
+<td><strong>8:30 AM</strong></td>
+<td align="left">OSIA Day 1 (5 OSIA articles presented)</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>due</strong></td>
+<td align="right">03-31</td>
+<td>3 PM</td>
+<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/tree/master/osia">OSIA slides due</a> for Primary Reviewers speaking tomorrow</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="april-2021" class="section level2">
+<h2>April 2021</h2>
+<table>
+<colgroup>
+<col width="12%" />
+<col width="10%" />
+<col width="76%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="right">LINK</th>
+<th align="right">Date</th>
+<th align="left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right"><strong>due</strong></td>
+<td align="right">04-01</td>
+<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/tree/master/labs">Lab 5</a> due at 8 AM</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>due</strong></td>
+<td align="right">04-01</td>
+<td align="left">8 AM: <a href="https://github.com/THOMASELOVE/500-2021/tree/master/osia">OSIA slides due</a> for Second Reviewers speaking today</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>due</strong></td>
+<td align="right">04-01</td>
+<td align="left">8 AM: <a href="https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md">Essay on Rosenbaum Chapter 8</a></td>
+</tr>
+<tr class="even">
+<td align="right">Class 09</td>
+<td align="right">04-01</td>
+<td align="left">9:30 AM start: Rosenbaum Chapter 8, OSIA Day 2 (3 articles)</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>due</strong></td>
+<td align="right">04-07</td>
+<td align="left">3 PM: <a href="https://github.com/THOMASELOVE/500-2021/tree/master/osia">OSIA slides due</a> for Primary Reviewers speaking tomorrow</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>due</strong></td>
+<td align="right">04-08</td>
+<td align="left">8 AM: <a href="https://github.com/THOMASELOVE/500-2021/tree/master/osia">OSIA slides due</a> for Second Reviewers speaking today</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>due</strong></td>
+<td align="right">04-08</td>
+<td align="left">8 AM: <a href="https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md">Essay on Rosenbaum Chapter 9</a></td>
+</tr>
+<tr class="even">
+<td align="right">Class 10</td>
+<td align="right">04-08</td>
+<td align="left">9:30 AM start: Rosenbaum Chapter 9, OSIA Day 3 (3 articles)</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>due</strong></td>
+<td align="right">04-14</td>
+<td align="left">3 PM: <a href="https://github.com/THOMASELOVE/500-2021/tree/master/osia">OSIA slides due</a> for Primary Reviewers speaking tomorrow</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>due</strong></td>
+<td align="right">04-15</td>
+<td align="left">8 AM: <a href="https://github.com/THOMASELOVE/500-2021/tree/master/osia">OSIA slides due</a> for Second Reviewers speaking today</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>due</strong></td>
+<td align="right">04-15</td>
+<td align="left">8 AM: <a href="https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md">Essay on Rosenbaum Chapter 10</a></td>
+</tr>
+<tr class="even">
+<td align="right">Class 11</td>
+<td align="right">04-15</td>
+<td align="left">9:30 AM start: Rosenbaum Chapter 10, OSIA Day 4 (3 articles)</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>due</strong></td>
+<td align="right">04-20</td>
+<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/blob/master/project/02_update.md">Project Update</a> due to Canvas by 9 PM</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>due</strong></td>
+<td align="right">04-22</td>
+<td align="left">8 AM: <a href="https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md">Essay on Rosenbaum Chapter 11</a></td>
+</tr>
+<tr class="odd">
+<td align="right">Class 12</td>
+<td align="right">04-22</td>
+<td align="left">Lecture 9, Rosenbaum Chapter 11</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>due</strong></td>
+<td align="right">04-29</td>
+<td align="left">8 AM: <a href="https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md">Essay on Rosenbaum Chapter 12</a></td>
+</tr>
+<tr class="odd">
+<td align="right">Class 13</td>
+<td align="right">04-29</td>
+<td align="left">Lecture 10, Rosenbaum Chapter 12</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="may-2021" class="section level2">
+<h2>May 2021</h2>
+<table>
+<thead>
+<tr class="header">
+<th align="right">LINK</th>
+<th align="right">Date</th>
+<th align="right">Time</th>
+<th align="left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right">Class 14</td>
+<td align="right">05-06</td>
+<td align="right">8:30 - 11</td>
+<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/tree/master/project">Project Presentations</a>, Session 1</td>
+</tr>
+<tr class="even">
+<td align="right">Class 15</td>
+<td align="right">05-13</td>
+<td align="right">8:30 - 11</td>
+<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/tree/master/project">Project Presentations</a>, Session 2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="end-of-semester" class="section level2">
+<h2>End of Semester</h2>
+<p><a href="https://github.com/THOMASELOVE/500-2021/tree/master/project">Final Project Submissions</a> will be due at noon on 2021-05-17.</p>
 </div>
 <div id="readings" class="section level2">
 <h2>Readings</h2>
@@ -522,215 +715,6 @@ div.tocify {
 </tbody>
 </table>
 </div>
-<div id="march-2021" class="section level2">
-<h2>March 2021</h2>
-<table>
-<thead>
-<tr class="header">
-<th align="right">LINK</th>
-<th align="right">Date</th>
-<th align="left">Description</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="right"><strong>due</strong></td>
-<td align="right">03-02</td>
-<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/tree/master/osia">OSIA claims</a> due via email to Dr. Love by 9 PM</td>
-</tr>
-<tr class="even">
-<td align="right"><a href="https://github.com/THOMASELOVE/500-2021/tree/master/classes/class05">Class 05</a></td>
-<td align="right">03-04</td>
-<td align="left">Lecture 5, Rosenbaum Chapters 5-6</td>
-</tr>
-<tr class="odd">
-<td align="right"><strong>due</strong></td>
-<td align="right">03-09</td>
-<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md">Project Proposal</a> (initial draft) due to Canvas by 9 PM</td>
-</tr>
-<tr class="even">
-<td align="right"><strong>due</strong></td>
-<td align="right">03-11</td>
-<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/tree/master/labs">Lab 3</a> due at 8 AM</td>
-</tr>
-<tr class="odd">
-<td align="right"><a href="https://github.com/THOMASELOVE/500-2021/tree/master/classes/class06">Class 06</a></td>
-<td align="right">03-11</td>
-<td align="left">Lecture 6, Rubin 2001</td>
-</tr>
-<tr class="even">
-<td align="right"><strong>due</strong></td>
-<td align="right">03-18</td>
-<td align="left">8 AM: <a href="https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md">Essay on Rosenbaum Chapter 7</a></td>
-</tr>
-<tr class="odd">
-<td align="right"><strong>due</strong></td>
-<td align="right">03-18</td>
-<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/tree/master/labs">Lab 4</a> due at 8 AM</td>
-</tr>
-<tr class="even">
-<td align="right">Class 07</td>
-<td align="right">03-18</td>
-<td align="left">Lecture 7, Rosenbaum Chapter 7</td>
-</tr>
-<tr class="odd">
-<td align="right"><strong>due</strong></td>
-<td align="right">03-23</td>
-<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md">Project Proposal</a> (final version) due to Canvas by 9 PM</td>
-</tr>
-<tr class="even">
-<td align="right"><strong>due</strong></td>
-<td align="right">03-24</td>
-<td align="left">3 PM: <a href="https://github.com/THOMASELOVE/500-2021/tree/master/osia">OSIA slides due</a> for Primary Reviewers speaking tomorrow</td>
-</tr>
-<tr class="odd">
-<td align="right"><strong>due</strong></td>
-<td align="right">03-25</td>
-<td align="left">8 AM: <a href="https://github.com/THOMASELOVE/500-2021/tree/master/osia">OSIA slides due</a> for Second Reviewers speaking today</td>
-</tr>
-<tr class="even">
-<td align="right">Class 08</td>
-<td align="right">03-25</td>
-<td align="left">Lecture 8, OSIA Day 1</td>
-</tr>
-<tr class="odd">
-<td align="right"><strong>due</strong></td>
-<td align="right">03-31</td>
-<td align="left">3 PM: <a href="https://github.com/THOMASELOVE/500-2021/tree/master/osia">OSIA slides due</a> for Primary Reviewers speaking tomorrow</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div id="april-2021" class="section level2">
-<h2>April 2021</h2>
-<table>
-<thead>
-<tr class="header">
-<th align="right">LINK</th>
-<th align="right">Date</th>
-<th align="left">Description</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="right"><strong>due</strong></td>
-<td align="right">04-01</td>
-<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/tree/master/labs">Lab 5</a> due at 8 AM</td>
-</tr>
-<tr class="even">
-<td align="right"><strong>due</strong></td>
-<td align="right">04-01</td>
-<td align="left">8 AM: <a href="https://github.com/THOMASELOVE/500-2021/tree/master/osia">OSIA slides due</a> for Second Reviewers speaking today</td>
-</tr>
-<tr class="odd">
-<td align="right"><strong>due</strong></td>
-<td align="right">04-01</td>
-<td align="left">8 AM: <a href="https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md">Essay on Rosenbaum Chapter 8</a></td>
-</tr>
-<tr class="even">
-<td align="right">Class 09</td>
-<td align="right">04-01</td>
-<td align="left">Rosenbaum Chapter 8, OSIA Day 2</td>
-</tr>
-<tr class="odd">
-<td align="right"><strong>due</strong></td>
-<td align="right">04-07</td>
-<td align="left">3 PM: <a href="https://github.com/THOMASELOVE/500-2021/tree/master/osia">OSIA slides due</a> for Primary Reviewers speaking tomorrow</td>
-</tr>
-<tr class="even">
-<td align="right"><strong>due</strong></td>
-<td align="right">04-08</td>
-<td align="left">8 AM: <a href="https://github.com/THOMASELOVE/500-2021/tree/master/osia">OSIA slides due</a> for Second Reviewers speaking today</td>
-</tr>
-<tr class="odd">
-<td align="right"><strong>due</strong></td>
-<td align="right">04-08</td>
-<td align="left">8 AM: <a href="https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md">Essay on Rosenbaum Chapter 9</a></td>
-</tr>
-<tr class="even">
-<td align="right">Class 10</td>
-<td align="right">04-08</td>
-<td align="left">Rosenbaum Chapter 9, OSIA Day 3</td>
-</tr>
-<tr class="odd">
-<td align="right"><strong>due</strong></td>
-<td align="right">04-14</td>
-<td align="left">3 PM: <a href="https://github.com/THOMASELOVE/500-2021/tree/master/osia">OSIA slides due</a> for Primary Reviewers speaking tomorrow</td>
-</tr>
-<tr class="even">
-<td align="right"><strong>due</strong></td>
-<td align="right">04-15</td>
-<td align="left">8 AM: <a href="https://github.com/THOMASELOVE/500-2021/tree/master/osia">OSIA slides due</a> for Second Reviewers speaking today</td>
-</tr>
-<tr class="odd">
-<td align="right"><strong>due</strong></td>
-<td align="right">04-15</td>
-<td align="left">8 AM: <a href="https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md">Essay on Rosenbaum Chapter 10</a></td>
-</tr>
-<tr class="even">
-<td align="right">Class 11</td>
-<td align="right">04-15</td>
-<td align="left">Rosenbaum Chapter 10, OSIA Day 4</td>
-</tr>
-<tr class="odd">
-<td align="right"><strong>due</strong></td>
-<td align="right">04-20</td>
-<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/blob/master/project/02_update.md">Project Update</a> due to Canvas by 9 PM</td>
-</tr>
-<tr class="even">
-<td align="right"><strong>due</strong></td>
-<td align="right">04-22</td>
-<td align="left">8 AM: <a href="https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md">Essay on Rosenbaum Chapter 11</a></td>
-</tr>
-<tr class="odd">
-<td align="right">Class 12</td>
-<td align="right">04-22</td>
-<td align="left">Lecture 9, Rosenbaum Chapter 11</td>
-</tr>
-<tr class="even">
-<td align="right"><strong>due</strong></td>
-<td align="right">04-29</td>
-<td align="left">8 AM: <a href="https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md">Essay on Rosenbaum Chapter 12</a></td>
-</tr>
-<tr class="odd">
-<td align="right">Class 13</td>
-<td align="right">04-29</td>
-<td align="left">Lecture 10, Rosenbaum Chapter 12</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div id="may-2021" class="section level2">
-<h2>May 2021</h2>
-<table>
-<thead>
-<tr class="header">
-<th align="right">LINK</th>
-<th align="right">Date</th>
-<th align="right">Time</th>
-<th align="left">Description</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="right">Class 14</td>
-<td align="right">05-06</td>
-<td align="right">8:30 - 11</td>
-<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/tree/master/project">Project Presentations</a>, Session 1</td>
-</tr>
-<tr class="even">
-<td align="right">Class 15</td>
-<td align="right">05-13</td>
-<td align="right">8:30 - 11</td>
-<td align="left"><a href="https://github.com/THOMASELOVE/500-2021/tree/master/project">Project Presentations</a>, Session 2</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div id="end-of-semester" class="section level2">
-<h2>End of Semester</h2>
-<p><a href="https://github.com/THOMASELOVE/500-2021/tree/master/project">Final Project Submissions</a> will be due at noon on 2021-05-17.</p>
-</div>
 
 <p><img alt="500 Footer" style="border-width:10" src="footer_500_2021.png" height="250" width ="800"/></a> 
 </p>
@@ -763,7 +747,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

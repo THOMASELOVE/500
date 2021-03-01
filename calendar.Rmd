@@ -17,6 +17,58 @@ output:
     - Other assignments (labs and some project materials) are to be submitted to [Canvas](https://canvas.case.edu).
 - This Calendar provides the final word on all deadlines, deliverables and class sessions. 
 
+## March 2021
+
+LINK | Date | Time | Description
+--------: | -------: | ------- | :-------------------------------------------------------
+**due** | 03-02 | 9 PM | [OSIA claims](https://github.com/THOMASELOVE/500-2021/tree/master/osia) due via email to Dr. Love
+[Class 05](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class05) | 03-04 | 9:30 AM | Lecture 5 (matching, dm2200), Rosenbaum Chapters 5-6
+**due** | 03-09 | 9 PM | [Project Proposal](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md) (initial draft) due to Canvas
+**due** | 03-11 | 8 AM | [Lab 3](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due
+[Class 06](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class06) | 03-11 | 9:30 AM | Lecture 6 (Rubin 2001, rhc example), Read Rubin 2001, Lab 3
+**due** | 03-18 | 8 AM | [Essay on Rosenbaum Chapter 7](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md)
+**due** | 03-18 | 8 AM | [Lab 4](https://github.com/THOMASELOVE/500-2021/tree/master/labs)
+Class 07 | 03-18 | 9:30 AM | Lecture 7 (sensitivity analysis), Rosenbaum Chapter 7, Lab 4
+**due** | 03-23 | 9 PM | [Project Proposal](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md) (final version) due to Canvas
+**due** | 03-24 | 3 PM | [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Primary Reviewers speaking tomorrow
+**due** | 03-25 | 8 AM | [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Second Reviewers speaking today
+Class 08 | 03-25 | **8:30 AM** | OSIA Day 1 (5 OSIA articles presented)
+**due** | 03-31 | 3 PM | [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Primary Reviewers speaking tomorrow
+
+## April 2021
+
+LINK | Date | Description
+--------: | -------: | :-------------------------------------------------------
+**due** | 04-01 | [Lab 5](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due at 8 AM
+**due** | 04-01 | 8 AM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Second Reviewers speaking today
+**due** | 04-01 | 8 AM: [Essay on Rosenbaum Chapter 8](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md)
+Class 09 | 04-01 | 9:30 AM start: Rosenbaum Chapter 8, OSIA Day 2 (3 articles)
+**due** | 04-07 | 3 PM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Primary Reviewers speaking tomorrow
+**due** | 04-08 | 8 AM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Second Reviewers speaking today
+**due** | 04-08 | 8 AM: [Essay on Rosenbaum Chapter 9](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md)
+Class 10 | 04-08 | 9:30 AM start: Rosenbaum Chapter 9, OSIA Day 3 (3 articles)
+**due** | 04-14 | 3 PM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Primary Reviewers speaking tomorrow
+**due** | 04-15 | 8 AM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Second Reviewers speaking today
+**due** | 04-15 | 8 AM: [Essay on Rosenbaum Chapter 10](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md)
+Class 11 | 04-15 | 9:30 AM start: Rosenbaum Chapter 10, OSIA Day 4 (3 articles)
+**due** | 04-20 | [Project Update](https://github.com/THOMASELOVE/500-2021/blob/master/project/02_update.md) due to Canvas by 9 PM
+**due** | 04-22 | 8 AM: [Essay on Rosenbaum Chapter 11](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md)
+Class 12 | 04-22 | Lecture 9, Rosenbaum Chapter 11
+**due** | 04-29 | 8 AM: [Essay on Rosenbaum Chapter 12](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md)
+Class 13 | 04-29 | Lecture 10, Rosenbaum Chapter 12
+
+## May 2021
+
+LINK | Date | Time | Description
+--------: | -------: | -------: |:-------------------------------------------------------
+Class 14 | 05-06 | 8:30 - 11 | [Project Presentations](https://github.com/THOMASELOVE/500-2021/tree/master/project), Session 1
+Class 15 | 05-13 | 8:30 - 11 | [Project Presentations](https://github.com/THOMASELOVE/500-2021/tree/master/project), Session 2
+
+## End of Semester
+
+[Final Project Submissions](https://github.com/THOMASELOVE/500-2021/tree/master/project) will be due at noon on 2021-05-17.
+
+
 ## Readings
 
 During the course, we will read Paul Rosenbaum's book **Observation and Experiment: An Introduction to Causal Inference**, which is available as an e-book or in paperback for under $25. Please buy the book and read the Preface and Chapter 1 before our first class on 2020-02-04.
@@ -37,57 +89,3 @@ LINK | Date | Time | Description
 **due** | 02-18 | 8 AM | [Lab 2](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due
 [Class 03](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class03) | 02-18 | **9:30 AM** | Lecture 3, Rosenbaum Chapter 3
 [Class 04](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class04) | 02-25 | **9:30 AM** | Lecture 4, Rosenbaum Chapter 4, lindner and toy examples
-
-## March 2021
-
-LINK | Date | Description
---------: | -------: | :-------------------------------------------------------
-**due** | 03-02 | [OSIA claims](https://github.com/THOMASELOVE/500-2021/tree/master/osia) due via email to Dr. Love by 9 PM
-[Class 05](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class05) | 03-04 | Lecture 5, Rosenbaum Chapters 5-6
-**due** | 03-09 | [Project Proposal](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md) (initial draft) due to Canvas by 9 PM
-**due** | 03-11 | [Lab 3](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due at 8 AM
-[Class 06](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class06) | 03-11 | Lecture 6, Rubin 2001
-**due** | 03-18 | 8 AM: [Essay on Rosenbaum Chapter 7](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md)
-**due** | 03-18 | [Lab 4](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due at 8 AM
-Class 07 | 03-18 | Lecture 7, Rosenbaum Chapter 7
-**due** | 03-23 | [Project Proposal](https://github.com/THOMASELOVE/500-2021/blob/master/project/01_proposal.md) (final version) due to Canvas by 9 PM
-**due** | 03-24 | 3 PM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Primary Reviewers speaking tomorrow
-**due** | 03-25 | 8 AM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Second Reviewers speaking today
-Class 08 | 03-25 | Lecture 8, OSIA Day 1
-**due** | 03-31 | 3 PM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Primary Reviewers speaking tomorrow
-
-## April 2021
-
-LINK | Date | Description
---------: | -------: | :-------------------------------------------------------
-**due** | 04-01 | [Lab 5](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due at 8 AM
-**due** | 04-01 | 8 AM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Second Reviewers speaking today
-**due** | 04-01 | 8 AM: [Essay on Rosenbaum Chapter 8](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md)
-Class 09 | 04-01 | Rosenbaum Chapter 8, OSIA Day 2
-**due** | 04-07 | 3 PM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Primary Reviewers speaking tomorrow
-**due** | 04-08 | 8 AM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Second Reviewers speaking today
-**due** | 04-08 | 8 AM: [Essay on Rosenbaum Chapter 9](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md)
-Class 10 | 04-08 | Rosenbaum Chapter 9, OSIA Day 3
-**due** | 04-14 | 3 PM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Primary Reviewers speaking tomorrow
-**due** | 04-15 | 8 AM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Second Reviewers speaking today
-**due** | 04-15 | 8 AM: [Essay on Rosenbaum Chapter 10](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md)
-Class 11 | 04-15 | Rosenbaum Chapter 10, OSIA Day 4
-**due** | 04-20 | [Project Update](https://github.com/THOMASELOVE/500-2021/blob/master/project/02_update.md) due to Canvas by 9 PM
-**due** | 04-22 | 8 AM: [Essay on Rosenbaum Chapter 11](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md)
-Class 12 | 04-22 | Lecture 9, Rosenbaum Chapter 11
-**due** | 04-29 | 8 AM: [Essay on Rosenbaum Chapter 12](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md)
-Class 13 | 04-29 | Lecture 10, Rosenbaum Chapter 12
-
-## May 2021
-
-LINK | Date | Time | Description
---------: | -------: | -------: |:-------------------------------------------------------
-Class 14 | 05-06 | 8:30 - 11 | [Project Presentations](https://github.com/THOMASELOVE/500-2021/tree/master/project), Session 1
-Class 15 | 05-13 | 8:30 - 11 | [Project Presentations](https://github.com/THOMASELOVE/500-2021/tree/master/project), Session 2
-
-## End of Semester
-
-[Final Project Submissions](https://github.com/THOMASELOVE/500-2021/tree/master/project) will be due at noon on 2021-05-17.
-
-
-
