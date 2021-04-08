@@ -33,16 +33,14 @@ LINK | Date | Description
 **due** | 04-15 | 8 AM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Class 11 Second Readers: Pamela, David, Lindsay
 [Class 11](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class11) | 04-15 | **9:00 AM** start: OSIA Day 4 (3 articles), Project questions, Rosenbaum
 **due** | 04-20 | [Project Update](https://github.com/THOMASELOVE/500-2021/blob/master/project/02_update.md) due to Canvas by 9 PM (all but Stephanie and Julia)
-[Class 12](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class12) | 04-22 | **8:30 AM** start: Instrumental Variables and Wrap-Up, Projects (Stephanie and Matt and Julia)
-[Class 13](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class13) | 04-29 | No class (Dr. Love will be away) but we may have something pre-recorded and/or Office Hours
-
-- We will still need to reschedule Anastasia's presentation.
+[Class 12](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class12) | 04-22 | **8:30 AM** start: [Project Presentations](https://github.com/THOMASELOVE/500-2021/tree/master/project) from Stephanie, Lindsay, Matt and Julia
+[Class 13](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class13) | 04-29 | No class (Dr. Love will be away) but he will pre-record some materials and Wyatt will hold Office Hours
 
 ## May 2021
 
 LINK | Date | Time | Description
 --------: | -------: | -------: |:-------------------------------------------------------
-[Class 14](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class14) | 05-06 | 8:30 - 11 | [Project Presentations](https://github.com/THOMASELOVE/500-2021/tree/master/project) from Caitlyn, Amr, Lindsay, Pamela and Long
+[Class 14](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class14) | 05-06 | 8:30 - 11 | [Project Presentations](https://github.com/THOMASELOVE/500-2021/tree/master/project) from Caitlyn, Amr, Pamela, Anastasia and Long
 [Class 15](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class15) | 05-13 | 8:30 - 11 | [Project Presentations](https://github.com/THOMASELOVE/500-2021/tree/master/project) from David, Carolyn, Ritu, Rod and Jakob
 
 ## End of Semester
