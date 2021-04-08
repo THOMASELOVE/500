@@ -28,13 +28,15 @@ LINK | Date | Description
 [Class 09](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class09) | 04-01 | 9:30 AM start: Rosenbaum Chapter 8, OSIA Day 2 (3 articles)
 **due** | 04-07 | 3 PM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Class 10 First Readers: Rod, Stephanie, Amr
 **due** | 04-08 | 8 AM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Class 10 Second Readers: Caitlyn, Long, Julia
-[Class 10](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class10) | 04-08 | OSIA Day 3 (3 articles), Project questions
+[Class 10](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class10) | 04-08 | **9:30 AM** start: OSIA Day 3 (3 articles), Project questions
 **due** | 04-14 | 3 PM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Class 11 First Readers: Jakob, Ritu, Matt
 **due** | 04-15 | 8 AM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Class 11 Second Readers: Pamela, David, Lindsay
-[Class 11](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class11) | 04-15 | 9:30 AM start: OSIA Day 4 (3 articles), Project questions
+[Class 11](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class11) | 04-15 | **9:00 AM** start: OSIA Day 4 (3 articles), Project questions, Rosenbaum
 **due** | 04-20 | [Project Update](https://github.com/THOMASELOVE/500-2021/blob/master/project/02_update.md) due to Canvas by 9 PM (all but Stephanie and Julia)
-[Class 12](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class12) | 04-22 | 9:30 AM start: Instrumental Variables, Projects (Stephanie and Julia)
-[Class 13](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class13) | 04-29 | 9:30 AM start: Rosenbaum Chapters 8-end, Wrapup, Projects (Anastasia and Matt) 
+[Class 12](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class12) | 04-22 | **8:30 AM** start: Instrumental Variables and Wrap-Up, Projects (Stephanie and Matt and Julia)
+[Class 13](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class13) | 04-29 | No class (Dr. Love will be away) but we may have something pre-recorded and/or Office Hours
+
+- We will still need to reschedule Anastasia's presentation.
 
 ## May 2021
 
