@@ -34,7 +34,7 @@ LINK | Date | Description
 [Class 11](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class11) | 04-15 | **9:00 AM** start: OSIA Day 4 (3 articles), Project questions
 **due** | 04-20 | [Project Update](https://github.com/THOMASELOVE/500-2021/blob/master/project/02_update.md) due to Canvas by 9 PM (all those presenting in May)
 [Class 12](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class12) | 04-22 | **8:30 AM** start: [Project Presentations](https://github.com/THOMASELOVE/500-2021/tree/master/project) from Stephanie, Lindsay, Matt and Julia
-[Class 13](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class13) | 04-29 | To Be Determined
+[Class 13](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class13) | 04-29 | **9:30 - 10:30 AM** Wyatt will hold office hours in the usual Zoom space. Please come if you have questions!
 
 ## May 2021
 
