@@ -17,25 +17,6 @@ output:
     - Other assignments (labs and some project materials) are to be submitted to [Canvas](https://canvas.case.edu).
 - This Calendar provides the final word on all deadlines, deliverables and class sessions. 
 
-## April 2021
-
-LINK | Date | Description
---------: | -------: | :-------------------------------------------------------
-**due** | *03-31* | 3 PM | [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Class 9 First Readers: Anastasia, David, Long
-**due** | 04-01 | [Lab 5](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due at 8 AM
-**due** | 04-01 | 8 AM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Class 9 Second Readers: Carolyn, Rod, Jakob
-**due** | 04-01 | 8 AM: [Essay on Rosenbaum Chapter 8](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md)
-[Class 09](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class09) | 04-01 | 9:30 AM start: Rosenbaum Chapter 8, OSIA Day 2 (3 articles)
-**due** | 04-07 | 3 PM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Class 10 First Readers: Rod, Stephanie, Amr
-**due** | 04-08 | 8 AM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Class 10 Second Readers: Caitlyn, Long, Julia
-[Class 10](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class10) | 04-08 | **9:30 AM** start: OSIA Day 3 (3 articles), Project questions
-**due** | 04-14 | 3 PM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Class 11 First Readers: Jakob, Ritu, Matt
-**due** | 04-15 | 8 AM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Class 11 Second Readers: Pamela, David, Lindsay
-[Class 11](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class11) | 04-15 | **9:00 AM** start: OSIA Day 4 (3 articles), Project questions
-**due** | 04-20 | [Project Update](https://github.com/THOMASELOVE/500-2021/blob/master/project/02_update.md) due to Canvas by 9 PM (all those presenting in May)
-[Class 12](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class12) | 04-22 | **8:30 AM** start: [Project Presentations](https://github.com/THOMASELOVE/500-2021/tree/master/project) from Stephanie, Lindsay, Matt and Julia
-[Class 13](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class13) | 04-29 | **9:30 - 10:30 AM** Wyatt will hold office hours in the usual Zoom space. Please come if you have questions!
-
 ## May 2021
 
 LINK | Date | Time | Description
@@ -87,3 +68,22 @@ LINK | Date | Time | Description
 **due** | 03-25 | 8 AM | [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Class 8 Second Readers: Matt, Anastasia, Ritu, Amr, Stephanie
 [Class 08](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class08) | 03-25 | **8:30 AM** | OSIA Day 1 (5 OSIA articles presented)
 **due** | 03-31 | 3 PM | [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Class 9 First Readers: Anastasia, David, Long
+
+## April 2021
+
+LINK | Date | Description
+--------: | -------: | :-------------------------------------------------------
+**due** | *03-31* | 3 PM | [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Class 9 First Readers: Anastasia, David, Long
+**due** | 04-01 | [Lab 5](https://github.com/THOMASELOVE/500-2021/tree/master/labs) due at 8 AM
+**due** | 04-01 | 8 AM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Class 9 Second Readers: Carolyn, Rod, Jakob
+**due** | 04-01 | 8 AM: [Essay on Rosenbaum Chapter 8](https://github.com/THOMASELOVE/500-2021/blob/master/essays/README.md)
+[Class 09](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class09) | 04-01 | 9:30 AM start: Rosenbaum Chapter 8, OSIA Day 2 (3 articles)
+**due** | 04-07 | 3 PM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Class 10 First Readers: Rod, Stephanie, Amr
+**due** | 04-08 | 8 AM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Class 10 Second Readers: Caitlyn, Long, Julia
+[Class 10](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class10) | 04-08 | **9:30 AM** start: OSIA Day 3 (3 articles), Project questions
+**due** | 04-14 | 3 PM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Class 11 First Readers: Jakob, Ritu, Matt
+**due** | 04-15 | 8 AM: [OSIA slides due](https://github.com/THOMASELOVE/500-2021/tree/master/osia) for Class 11 Second Readers: Pamela, David, Lindsay
+[Class 11](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class11) | 04-15 | **9:00 AM** start: OSIA Day 4 (3 articles), Project questions
+**due** | 04-20 | [Project Update](https://github.com/THOMASELOVE/500-2021/blob/master/project/02_update.md) due to Canvas by 9 PM (all those presenting in May)
+[Class 12](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class12) | 04-22 | **8:30 AM** start: [Project Presentations](https://github.com/THOMASELOVE/500-2021/tree/master/project) from Stephanie, Lindsay, Matt and Julia
+[Class 13](https://github.com/THOMASELOVE/500-2021/tree/master/classes/class13) | 04-29 | **9:30 - 10:30 AM** Wyatt will hold office hours in the usual Zoom space. Please come if you have questions!
